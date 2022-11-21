@@ -1,0 +1,8 @@
+<suite name="Suite1" verbose="1" >
+    <test name="Regression1">
+        <classes>
+            <class name="signup.SignUpTests"/>
+            <class name="completescenario.CompleteScenarioTests"/>
+        </classes>
+    </test>
+</suite>
